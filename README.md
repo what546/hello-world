@@ -1,2 +1,1 @@
-# hello-world
-我的第一个Github仓库，用于练习
+# 这是我的第一个Github文件
